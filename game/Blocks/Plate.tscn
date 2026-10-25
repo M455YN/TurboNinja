@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[node name="Plate" type="ColorRect"]
+offset_right = 100.0
+offset_bottom = 8.0
+color = Color(0.8, 0.3, 0.3, 1)
